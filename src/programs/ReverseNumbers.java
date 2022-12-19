@@ -1,4 +1,4 @@
-package fajp;
+package programs;
 
 public class ReverseNumbers {
 
